@@ -2,4 +2,4 @@
 Undetermined TIFF thing?
 
 # starting too baic..
-`g++ -o t src/basic.c -lm -ltiff`
+`g++ -o t.o src/basic.c -lm -ltiff`
